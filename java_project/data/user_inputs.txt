@@ -1,0 +1,1 @@
+[2025-09-05 10:31:35] CREATE_CUSTOMER | customerId=12; name=as; address=12as; phone=1234567890
